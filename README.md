@@ -64,19 +64,29 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 </div>
 
-# 🛠️ Tech Stack
+## 🔥 What I'm Into
 
-## 💻 Programming Languages
-<p align="center">
+<div align="center">
+
+| 📊 Data Analytics | 🏗️ Data Engineering | 🤖 AI & ML | 👁️ Computer Vision |
+|:-:|:-:|:-:|:-:|
+| Turning raw data into actionable insights | Building robust data pipelines & systems | Training models that learn & predict | Teaching machines to see the world |
+| Pandas • Matplotlib • Power BI • SQL | MySQL • ETL • Data Cleaning • DBMS | scikit-learn • TensorFlow • PyTorch | OpenCV • YOLOv8 • Real-time Detection |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-</p>
 
-## 🤖 AI / ML & Computer Vision
-<p align="center">
+### 🤖 AI / ML & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -84,10 +94,8 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
 ![mlflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-</p>
 
-## 📊 Data Analytics & Engineering
-<p align="center">
+### 📊 Data Analytics & Engineering
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -96,10 +104,8 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-</p>
 
-## 🧰 Tools & Platforms
-<p align="center">
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -107,7 +113,8 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-</p>
+
+--- do ti for this  dont chneg any thting bu have clen  and bets hedign will be bold and bige r foufnt 
 
 ## 🚀 Featured Projects
 
