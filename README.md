@@ -247,19 +247,13 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 ---
 
-<p align="center">
-🏆 <b>GitHub Trophies</b>  
-<br>
-🏅 <i>Trophies grow as you contribute more — keep pushing commits and opening PRs!</i>  
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=realusmannazir1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
-
-
 # 🔝 Top Contributed Repositories
 
 <p align="center">
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=realusmannazir1&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+🪖 Helmet Detection System
+
+📚 Library Management System
+
 </p>
 
 
