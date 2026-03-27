@@ -19,47 +19,40 @@
 
 ---
 
-## 👨‍💻 About Me
+💬 About Me
 
-class MuhammadUsmanNazir:
-    def __init__(self):
-        self.name        = "Muhammad Usman Nazir"
-        self.role        = "BS Data Science Student @ UET Peshawar (4th Sem)"
-        self.location    = "Peshawar, Pakistan 🇵🇰"
-        self.email       = "realusmannazir@gmail.com"
-        self.phone       = "+92-3159451744"
+I’m passionate about turning raw data into meaningful insights. Whether it’s building predictive models, visualizing trends, or engineering pipelines, I thrive on solving real-world challenges with code.
 
-        self.interests   = [
-            "🤖 Artificial Intelligence & Machine Learning",
-            "👁️  Computer Vision & Object Detection",
-            "📊 Data Analytics & Visualization",
-            "🏗️  Data Engineering & ETL Pipelines",
-            "🗄️  Database Systems & SQL",
-            "🔍 Problem Solving with Data",
-        ]
+"Committed to continuous learning and applying technical skills to data-driven problems. From raw data to insight — that’s where I shine. 🚀"
 
-        self.coursework  = [
-            "Programming (C)", "OOP (Java)", "Data Structures (C++)",
-            "DBMS & SQL", "Intro to Data Science", "ICT Applications"
-        ]
+💡 My Interests
+🤖 Artificial Intelligence & Machine Learning
+👁️ Computer Vision & Object Detection
+📊 Data Analytics & Visualization
+🏗️ Data Engineering & ETL Pipelines
+🗄️ Database Systems & SQL
+🔍 Problem Solving with Data
+📚 Coursework
+Programming (C)
+OOP (Java)
+Data Structures (C++)
+DBMS & SQL
+Introduction to Data Science
+ICT Applications
+🗣️ Languages
+Language	Proficiency
+Urdu	Native 🇵🇰
+Pashto	Native
+English	Professional 🌐
+🌟 Skills & Strengths
 
-        self.languages   = {
-            "Urdu"   : "Native 🇵🇰",
-            "Pashto" : "Native",
-            "English": "Professional 🌐"
-        }
+Technical Skills:
 
-        self.soft_skills = ["Quick Learner", "Team Player", "Problem Solver", "Adaptable"]
+Python | Pandas | NumPy | Matplotlib | SQL | Machine Learning | OpenCV
 
-    def mission(self):
-        return """
-        Committed to continuous learning and applying technical skills
-        to real-world, data-driven challenges. From raw data to insight —
-        that's where I thrive. 🚀
-        """
+Soft Skills:
 
-me = MuhammadUsmanNazir()
-print(me.mission())
+Quick Learner | Team Player | Problem Solver | Adaptable
 
 ## 🌐 Connect With Me
 
