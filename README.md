@@ -64,7 +64,7 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 </div>
 
-## 🔥 What I'm Into
+<p align="center">  **🔥 What I'm Into**  </p>
 
 <div align="center">
 
@@ -77,7 +77,7 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 ---
 
-## 🛠️ Tech Stack
+<p align="center">  ** 🛠️ Tech Stack **  </p>
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -114,7 +114,6 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
---- do ti for this  dont chneg any thting bu have clen  and bets hedign will be bold and bige r foufnt 
 
 ## 🚀 Featured Projects
 
