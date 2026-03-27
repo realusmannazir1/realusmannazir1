@@ -14,7 +14,6 @@
 
 ## 👨‍💻 About Me
 
-```python
 class MuhammadUsmanNazir:
     def __init__(self):
         self.name       = "Muhammad Usman Nazir"
@@ -30,7 +29,6 @@ class MuhammadUsmanNazir:
 
 me = MuhammadUsmanNazir()
 print(me.hello())
-```
 
 ---
 
