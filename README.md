@@ -224,7 +224,9 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 ## 📊 GitHub Stats
 
-> ⚡ *Stats update live — make sure to visit after pushing new commits!*
+> <div align="center"> 
+⚡ *Stats update live — make sure to visit after pushing new commits!*
+</div>
 
 <div align="center">
 
