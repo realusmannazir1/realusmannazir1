@@ -45,7 +45,8 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 |:------------:|:-----------:|:-------------:|:---------:|
 
 </div>
-## 🌐 Connect With Me
+
+**🌐 Connect With Me**
 
 <div align="center">
 
@@ -62,8 +63,6 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/realusmannazir)
 
 </div>
-
----
 
 ## 🔥 What I'm Into
 
