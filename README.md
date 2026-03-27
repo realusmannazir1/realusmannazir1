@@ -250,8 +250,12 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 # 🔝 Top Contributed Repositories
 <p align="center">
 🪖 Helmet Detection System
+</p>
+  <p align="center">
 📚 Library Management System
 </p>
+
+---
 
 ## ✍️ Dev Quote of the Day
 
