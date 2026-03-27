@@ -46,7 +46,7 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 </div>
 
-<p align="center">**🌐 Connect With Me** </p> 
+<h2 align="center"><b>🌐 Connect With Me</b></h2>
 
 <div align="center">
 
