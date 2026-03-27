@@ -25,20 +25,7 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 "Committed to continuous learning and applying technical skills to data-driven problems. From raw data to insight — that’s where I shine. 🚀"
 
-💡 My Interests
-🤖 Artificial Intelligence & Machine Learning
-👁️ Computer Vision & Object Detection
-📊 Data Analytics & Visualization
-🏗️ Data Engineering & ETL Pipelines
-🗄️ Database Systems & SQL
-🔍 Problem Solving with Data
-📚 Coursework
-Programming (C)
-OOP (Java)
-Data Structures (C++)
-DBMS & SQL
-Introduction to Data Science
-ICT Applications
+
 🗣️ Languages
 Language	Proficiency
 Urdu	Native 🇵🇰
@@ -46,9 +33,6 @@ Pashto	Native
 English	Professional 🌐
 🌟 Skills & Strengths
 
-Technical Skills:
-
-Python | Pandas | NumPy | Matplotlib | SQL | Machine Learning | OpenCV
 
 Soft Skills:
 
