@@ -34,10 +34,10 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 | English  | Professional 🌐 |
 
 
-## 🌟 Soft Skills
+<p align="center">🌟 Soft Skills</p>
 
 | Quick Learner | Team Player | Problem Solver | Adaptable |
-|---------------|------------|----------------|-----------|
+|:------------:|:-----------:|:-------------:|:---------:|
 
 ## 🌐 Connect With Me
 
