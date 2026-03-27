@@ -247,27 +247,24 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+🏅 *Trophies grow as you contribute more — keep pushing commits and opening PRs!*
+</p>
 
-> 🏅 *Trophies grow as you contribute more — keep pushing commits and opening PRs!*
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=realusmannazir1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
-</div>
+<p align="center">
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=realusmannazir1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+</p>
 
 ---
 
-## 🔝 Top Contributed Repositories
+# 🔝 Top Contributed Repositories
 
-<div align="center">
-
+<p align="center">
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=realusmannazir1&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+</p>
 
-</div>
-
----
 
 ## ✍️ Dev Quote of the Day
 
