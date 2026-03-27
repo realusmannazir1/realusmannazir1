@@ -71,7 +71,7 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 | 📊 Data Analytics | 🏗️ Data Engineering | 🤖 AI & ML | 👁️ Computer Vision |
 |:-:|:-:|:-:|:-:|
 | Turning raw data into actionable insights | Building robust data pipelines & systems | Training models that learn & predict | Teaching machines to see the world |
-| Pandas • Matplotlib • Power BI • SQL | MySQL • ETL • Data Cleaning • DBMS | scikit-learn • TensorFlow • PyTorch | OpenCV • YOLOv8 • Real-time Detection |
+| Pandas | Matplotlib | Power BI | SQL | MySQL | ETL | Data Cleaning | DBMS | scikit-learn | TensorFlow | PyTorch | OpenCV | YOLOv8 | Real-time Detection |
 
 </div>
 
