@@ -25,13 +25,13 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 "Committed to continuous learning and applying technical skills to data-driven problems. From raw data to insight — that’s where I shine. 🚀"
 
+## 🗣️ Languages
 
-🗣️ Languages
-Language	Proficiency
-Urdu	Native 🇵🇰
-Pashto	Native
-English	Professional 🌐
-🌟 Skills & Strengths
+| Language | Proficiency |
+|----------|------------|
+| Urdu     | Native 🇵🇰  |
+| Pashto   | Native     |
+| English  | Professional 🌐 |
 
 
 Soft Skills:
