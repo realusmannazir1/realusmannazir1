@@ -64,7 +64,7 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 </div>
 
-## 🔥 What I'm Into
+<h2 align="center"><b>🔥 What I'm Into</b></h2>
 
 <div align="center">
 
@@ -75,18 +75,21 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 
 </div>
 
----
+<hr>
 
-## 🛠️ Tech Stack
+<h2 align="center"><b>🛠️ Tech Stack</b></h2>
 
-### 💻 Programming Languages
+<h3 align="center"><b>💻 Programming Languages</b></h3>
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-### 🤖 AI / ML & Computer Vision
+<h3 align="center"><b>🤖 AI / ML & Computer Vision</b></h3>
+<div align="center">
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -94,8 +97,10 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
 ![mlflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+</div>
 
-### 📊 Data Analytics & Engineering
+<h3 align="center"><b>📊 Data Analytics & Engineering</b></h3>
+<div align="center">
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -104,8 +109,10 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+</div>
 
-### 🧰 Tools & Platforms
+<h3 align="center"><b>🧰 Tools & Platforms</b></h3>
+<div align="center">
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -113,8 +120,7 @@ I’m passionate about turning raw data into meaningful insights. Whether it’s
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
+</div>
 
 ## 🚀 Featured Projects
 
